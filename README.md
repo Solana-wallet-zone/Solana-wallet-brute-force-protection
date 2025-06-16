@@ -116,3 +116,5 @@ This project uses C++, OpenSSL, and libsodium. We suggest using **vcpkg**:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update:  Monday 16 June 2025 link is active
